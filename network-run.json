@@ -1,0 +1,13 @@
+{
+  "contractAddress": "0x6Ffe8D1C71f75F8FC3Fc83Dc1373B371887C1641",
+  "wallet": "0xad9c2fEc8a74efa02364A780BAd1936e255C3C25",
+  "sourceMatchVerified": true,
+  "liveMethod": "convene",
+  "liveRecordId": "LIVE-COMMONS-1789928201",
+  "liveTransaction": "0xbcea04957a083b278fc99bf5a19518955f8c8a10afe4e1d86747d2efc15e3c59",
+  "liveStatus": "FINALIZED",
+  "liveConsensus": "MAJORITY_AGREE",
+  "liveExecution": "SUCCESS",
+  "liveState": "CONVENED",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0x6Ffe8D1C71f75F8FC3Fc83Dc1373B371887C1641"
+}

@@ -1,0 +1,17 @@
+{
+  "project": "commons-carry",
+  "network": "StudioNet",
+  "contractAddress": "0x6Ffe8D1C71f75F8FC3Fc83Dc1373B371887C1641",
+  "deploymentTransaction": "0x74b928f80d658784c42107cacf2c47fc36095b5cf374551782cd0707b055b6d6",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "sourceCommit": "18954f4cdc18c3a98fd55b79ce9ba162009b63a7",
+  "repository": "https://github.com/wakbowaa/commons-carry",
+  "sourceMatchVerified": true,
+  "wallet": "0xad9c2fEc8a74efa02364A780BAd1936e255C3C25",
+  "liveInitializationTransaction": "0xbcea04957a083b278fc99bf5a19518955f8c8a10afe4e1d86747d2efc15e3c59",
+  "liveRecordId": "LIVE-COMMONS-1789928201",
+  "liveState": "CONVENED",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0x6Ffe8D1C71f75F8FC3Fc83Dc1373B371887C1641"
+}
